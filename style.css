@@ -1,0 +1,42 @@
+.bg{
+    width: 680px;
+    margin: 30px auto;
+    position: relative;
+    border: none;
+    
+}
+
+
+.bg-img{
+    width: 100%;
+    border-radius: 16px;
+}
+
+.shade{
+    position: absolute;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.066);
+}
+
+.btn{
+    background-color: white;
+    padding: 14px 28px;
+    border-radius: 30px;
+    font-size: 16px;
+    border: none;
+}
+
+
+
+.bg-content{
+    position: absolute;
+    bottom: 70px;
+    color: white;
+    left: 40px;
+    text-align: center;
+} 
+
+
